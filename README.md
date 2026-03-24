@@ -17,23 +17,9 @@ The purpose of this repository is to:
 
 ---
 
-## Documentation Order (To Be Determined)
+## Documentation Order (In progress)
 
-Content will be organized based on the AZ-104 learning path and may include:
-
-- Module-based progression (aligned with Microsoft Learn)
-- Service-based grouping (Compute, Networking, Storage, etc.)
-- Lab-first or concept-first structure depending on learning flow  
-
-Final structure will be refined as the project evolves.
-
-Each section will contain detailed documentation, including:
-
-- Step-by-step lab walkthroughs  
-- Key concepts and summaries  
-- PowerShell and Azure CLI commands  
-- Screenshots of configurations and results  
-- Troubleshooting notes and lessons learned 
+1. [ARM Templates: Parameters and Outputs](01-prerequsites-azure-admin/README.md)
 
 ---
 
