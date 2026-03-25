@@ -1,4 +1,4 @@
-# 01 - Prerequisites: Azure Resource Manager (ARM) Templates
+# Prerequisites: Azure Resource Manager (ARM) Templates
 
 ## Goal
 The goal of these exercises was to understand how to define, deploy, and improve Azure infrastructure using ARM templates.
@@ -106,3 +106,5 @@ Key takeaways:
 - Outputs provide visibility into deployed resources  
 
 This is a fundamental skill for managing Azure environments at scale and will be built upon in later modules.
+
+See the [Create, configure, and manage identites documentation](../02-create-configure-manage-identities/README.md) for the next exercises.

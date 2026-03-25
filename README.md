@@ -20,6 +20,7 @@ The purpose of this repository is to:
 ## Documentation Order (In progress)
 
 1. [ARM Templates: Parameters and Outputs](01-prerequsites-azure-admin/README.md)
+2. [Create, Configure, and Manage Identites](02-create-configure-manage-identities/README.md)
 
 ---
 
